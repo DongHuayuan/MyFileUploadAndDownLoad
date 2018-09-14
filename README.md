@@ -1,0 +1,9 @@
+# MyFileUploadAndDownLoad
+使用servlet实现文件的上传和下载，并整合七牛云。将七牛云的上传下载查看和删除等功能打成jar，只需配置qiniu.properties即可使用。
+
+
+Module QiNiu是对七牛云的上传下载查看和删除等做了简单的处理，并打成jar，通过读取固定的配置文件名称qiniu.properties实现整合七牛云。
+
+Module QiNiuServletUpDownDemo 是使用servlet整合七牛云。
+
+Module  ServletUpDownDemo 是使用servlet进行文件的上传下载查看（均在本地环境，自动识别操作系统将文件放在某一路径下)。

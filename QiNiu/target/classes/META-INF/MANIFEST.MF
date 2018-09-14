@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: okio-1.8.0.jar gson-2.6.2.jar qiniu-java-sdk-7.2.11.jar ok
+ http-3.3.1.jar happy-dns-java-0.1.4.jar commons-lang-2.6.jar
+
